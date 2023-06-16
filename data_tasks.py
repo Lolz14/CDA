@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-
+#new
 def load_data(data_folder: str = r"C:\Users\Diego\Documents\DTU\Spring2023\CDA\CDA_Projects\Case2\dataset\dataset") -> pd.DataFrame:
     # define the path to the data folder
     # initialize an empty list to hold the dataframes for each file
